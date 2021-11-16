@@ -1,0 +1,68 @@
+
+.ad-item{
+
+}
+
+.item-height{
+  height: 35px;
+}
+
+.a-no-decor{
+  text-decoration: none;
+  color:black;
+  text-align: center;
+}
+
+
+table.meniu {
+    text-align: left;
+    background-color:#ffffff;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: grey;
+    padding: 1px;
+    background-color: white;                
+}
+table.backlink {  
+    margin-left:auto; 
+    margin-right:auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-width: 13px;
+    border-style: solid;
+    border-color: red;    
+    background-color: cyan;   
+}
+body {
+    text-align:center;
+}   
+form.login {
+    margin-bottom:0;
+    padding:6px; 
+    background-color:#a0e72e;               
+}
+input.s1 {   
+    width:100%;
+    font-size:13pt;
+    text-align:left;
+    background: white;
+}
+
+#title{
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+#description{
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ced4da;
+}
